@@ -1,2 +1,2 @@
-# SICP
-Structure and Interpretation of Computer Programs book and video lectures notes.
+# Learning Log
+Keeping track of my notes on Github!
